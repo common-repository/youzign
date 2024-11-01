@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Youzign\n"
+"POT-Creation-Date: 2017-02-01 10:48+0100\n"
+"PO-Revision-Date: 2015-04-08 18:59+0100\n"
+"Last-Translator: Bartosz Arendt <info@dfactory.eu>\n"
+"Language-Team: YMB Properites <support@ymbproperties.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../youzign.php:206 ../youzign.php:271
+msgid "Youzign"
+msgstr ""
+
+#: ../youzign.php:257
+#, php-format
+msgid "Your Youzign account requires <a href=\"%s\">authentication</a>."
+msgstr ""
+
+#: ../youzign.php:282
+msgid "Reset to defaults"
+msgstr ""
+
+#: ../youzign.php:300
+msgid "Authentication"
+msgstr ""
+
+#: ../youzign.php:301
+msgid "Public Key"
+msgstr ""
+
+#: ../youzign.php:302
+msgid "Token"
+msgstr ""
+
+#: ../youzign.php:303
+msgid "Status"
+msgstr ""
+
+#: ../youzign.php:311
+#, php-format
+msgid ""
+"Please enter your authentication data to connect to your <a href=\"%s\" "
+"target=\"_blank\">Youzign</a> account."
+msgstr ""
+
+#: ../youzign.php:322
+msgid "Enter your API Public Key."
+msgstr ""
+
+#: ../youzign.php:334
+msgid "Enter your API Token."
+msgstr ""
+
+#: ../youzign.php:351
+msgid "Authenticated"
+msgstr ""
+
+#: ../youzign.php:355
+msgid "Not Authenticated"
+msgstr ""
+
+#: ../youzign.php:384
+msgid "Youzign settings restored to defaults."
+msgstr ""
+
+#: ../youzign.php:433
+msgid "Insert from Youzign"
+msgstr ""
+
+#: ../youzign.php:534
+msgid "Insert into Post"
+msgstr ""
+
+#: ../youzign.php:535
+msgid "Import to Media Library"
+msgstr ""

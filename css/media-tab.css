@@ -1,0 +1,52 @@
+.media-frame.youzign .spinner {
+    position: absolute; 
+    top: 50%; 
+    left: 50%;  
+    transform: translate(-50%, -50%); 
+    margin: -10px 0 0;
+    -webkit-transition: transform 0.3s, opacity 0.3s;
+    -moz-transition: transform 0.3s, opacity 0.3s;
+    -ms-transition: transform 0.3s, opacity 0.3s;
+    -o-transition: transform 0.3s, opacity 0.3s;
+    transition: transform 0.3s, opacity 0.3s;
+    opacity: 0;
+}
+.media-frame.youzign .loading .spinner {
+    opacity: 1;
+}
+.media-frame.youzign .thumbnail {
+    -webkit-transition: transform 0.3s, opacity 0.3s;
+    -moz-transition: transform 0.3s, opacity 0.3s;
+    -ms-transition: transform 0.3s, opacity 0.3s;
+    -o-transition: transform 0.3s, opacity 0.3s;
+    transition: transform 0.3s, opacity 0.3s;
+    opacity: 1;
+}
+.media-frame.youzign .loading .thumbnail {
+    opacity: 0.3;
+}
+.media-frame.youzign .attachment .attachment-preview:after {
+    display: inline-block;
+    font: 400 13px/1 dashicons;
+    vertical-align: middle;
+    padding-right: 5px;
+    margin-top: -2px;
+    content: "\f104";
+    position: absolute;
+    top: 20px;
+    right: 0;
+    padding: 5px 7px 5px 5px;
+    background: #0073aa;
+    color: #fff;
+    -webkit-transition: transform 0.3s, opacity 0.3s;
+    -moz-transition: transform 0.3s, opacity 0.3s;
+    -ms-transition: transform 0.3s, opacity 0.3s;
+    -o-transition: transform 0.3s, opacity 0.3s;
+    transition: transform 0.3s, opacity 0.3s;
+    opacity: 0;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+.media-frame.youzign .attachment.in-library .attachment-preview:after {
+    opacity: 1;
+}
